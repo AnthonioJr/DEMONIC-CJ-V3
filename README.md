@@ -4,7 +4,7 @@
                                       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
 
 <p align="center"> 
-<up A simple WhatsApp User Bot Coded By CASEYRHODES 🌟</u>
+<up A simple WhatsApp User Bot Coded By 𝕶𝖎𝖓𝖌 𝐂𝐉</u>
 </p>
 <p align="center">
 <img src="https://files.catbox.moe/aifztz.jpg"/>       
@@ -13,7 +13,7 @@
             
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𝑫𝑬𝑴𝑶𝑵𝑰𝑪-+𝑪𝑱-+𝑽3+⦅⦆MULTI-DEVICE⦅⦆+⦅⦆WHATSAPP⦅⦆+⦅⦆BOT⦅⦆;DEVELOPED+BY+𝕶𝖎𝖓𝖌࿇︎ÇJ;RELEASED+DATE+05%2F11%2F2024" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•𝑫𝑬𝑴𝑶𝑵𝑰𝑪-+𝑪𝑱-+𝑽3+⦅⦆MULTI-DEVICE⦅⦆+⦅⦆WHATSAPP⦅⦆+⦅⦆BOT⦅⦆;DEVELOPED+BY+𝕶𝖎𝖓𝖌࿇︎ÇJ;RELEASED+DATE+01%2F01%2F2025" alt="Typing SVG" /></a>
  
  ## 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 𝙼𝙴𝚃𝙷𝙾𝙳𝚂
 
@@ -23,7 +23,7 @@
 
 ### 2. GET SESSION ID HERE
  
-<a href="https://rhodespair-1303049c463e.herokuapp.com"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+<a href="https://l-rd-j-y-session-id.onrender.com/veranqr"><img src="https://img.shields.io/badge/PAIR CODE-green" alt="Click Here to Get Pair-Code" width="90"></a>
 
 
 ### DEPLOY ON RENDER
@@ -57,8 +57,8 @@ apt update && apt upgrade -y
 apt install -y webp git ffmpeg curl imagemagick
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
-git clone https://github.com/caseyweb/QUEEN-CHARITY
-cd QUEEN-CHARITY
+git clone https://github.com/CJ-LAP/DEMONIC-CJ-V3 
+cd DEMONIC-CJ-V3 
 npm install
 npm start
 ```
