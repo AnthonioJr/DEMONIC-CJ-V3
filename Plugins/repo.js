@@ -3,7 +3,7 @@ const { cmd } = require("../lib/plugins");
 const { smd } = require("../lib");
 
 smd({
-  pattern: "botrepo",
+  pattern: "repo",
   react: "📁",
   alias: ["repo", "bot"],
   desc: "Sends info about the WhatsApp bot repository",
@@ -11,7 +11,7 @@ smd({
   filename: __filename
 }, async (message) => {
   try {
-    const response = await axios.get("https://api.github.com/repos/CJ-LAP/DEMONIC--CJ-V3-");
+    const response = await axios.get("https://api.github.com/repos/CJ-LAP/DEMONIC-CJ-V3");
     const repoData = response.data;
 
     let replyMessage = `**⚡WhatsApp Bot Repository Info**\n\n`;
