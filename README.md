@@ -1,7 +1,7 @@
  # 𝑫𝑬𝑴𝑶𝑵𝑰𝑪-𝑪𝑱-𝑽3
    
    <a>
-                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT" alt="Typing SVG" /></a>   
+                                      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=F71515&width=435&lines=BOT+100%25+LEGIT,+THE+BEST💪" alt="Typing SVG" /></a>   
 
 <p align="center"> 
 <up A simple WhatsApp User Bot Coded By 𝕶𝖎𝖓𝖌 𝐂𝐉</u>
@@ -72,7 +72,7 @@ npm start
 
 
   
-  #### ```𝕶𝖎𝖓𝖌 ÇJ PROFILE VIEWS 🧚```
+  #### ```𝕶𝖎𝖓𝖌 ÇJ PROFILE VIEWS 🤓```
 ![Visitor Count](https://profile-counter.glitch.me/CJ-LAP/count.svg)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
