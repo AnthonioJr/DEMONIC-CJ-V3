@@ -90,7 +90,7 @@ npm start
 
 
 ### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/CJ-LAP)
-<b>Version -> 1.0.0</b>
+<b>Version -> 3.0.0</b>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
